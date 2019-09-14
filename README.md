@@ -43,7 +43,7 @@ Project Organization
     │   └── utils
     │       └── logger.py  <- For logging information in txt
     │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+    └── 
 
 
 ------------
