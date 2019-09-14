@@ -1,6 +1,6 @@
 Machine Learning project template
 ==============================
-A project template to simplify building and training  models, written in Python 3.
+
 
 Project Organization
 ------------
@@ -47,3 +47,19 @@ Project Organization
 
 
 ------------
+
+PyCharm Environment settings
+------------
+ * Choose File in navigation menu.   
+View drop-down list and go down to Settings.
+ * Choose Project:[name]  
+   -> Project Interpreter 
+![image info](/home/rnagibov/Documents/machine-learning-project-template/references/settings.png)
+ * On the right area press the icon 'gear' and choose "Show All"
+![image info](/home/rnagibov/Documents/machine-learning-project-template/references/project_interpr.png)
+ * Press icon 'plus' 
+![image info](/home/rnagibov/Documents/machine-learning-project-template/references/interpreters.png)
+ * Сheck that the item is selected 'New environment' and press 'Ok'
+![image info](/home/rnagibov/Documents/machine-learning-project-template/references/add_interpr.png)
+------------
+
